@@ -1,6 +1,9 @@
 <?php
 
-    namespace Coco\exfi\Adapter;
+    namespace Coco\exfi;
+
+use Coco\exfi\Adapter\Exiftool;
+use Coco\exfi\Adapter\Native;
 
 class Reader
 {

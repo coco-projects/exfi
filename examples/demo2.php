@@ -1,6 +1,6 @@
 <?php
 
-    use Coco\exfi\Adapter\Reader;
+    use Coco\exfi\Reader;
 
     require '../vendor/autoload.php';
 
