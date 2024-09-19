@@ -1,14 +1,13 @@
 
-reference:https://github.com/PHPExif/php-exif
+> reference: https://github.com/PHPExif/php-exif
 
-## Testing
 
-``` bash
-composer test
-```
+## usage
 
-## License
+see examples folder
 
 ---
+
+## License
 
 MIT
